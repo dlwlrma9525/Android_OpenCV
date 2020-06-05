@@ -1,0 +1,2 @@
+진행하기 전에 C:\OpenCV-android-sdk\sdk에 있는 build.gradle 파일을 C:\OpenCV-android-sdk\sdk\java에 덮어쓰기합니다.
+Cannot resolve symbol 'styleable' 에러가 발생하기 때문에 필요한 작업입니다.
